@@ -10,7 +10,7 @@ import Footer from './template/Footer';
 function App() {
   return (
     <div className="App">
-      <h1>AddComponenet</h1>
+      
       <BrowserRouter>
        <Header></Header> 
       <Routes>
