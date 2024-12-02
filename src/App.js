@@ -23,8 +23,7 @@ function App() {
       </BrowserRouter>
       <h1>Home-Loan Frond end project ....!</h1>
        
-    </div>
-    
+    </div>  
   );
 }
 
