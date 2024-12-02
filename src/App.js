@@ -20,9 +20,7 @@ function App() {
       <Slider></Slider>
       <Footer></Footer>
       </BrowserRouter>
-      
-       
-    </div>
+      </div>
     
   );
 }
