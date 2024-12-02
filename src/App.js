@@ -21,7 +21,7 @@ function App() {
       <Slider></Slider>
       <Footer></Footer>
       </BrowserRouter>
-      
+      <h1>Home-Loan Frond end project ....!</h1>
        
     </div>
     
