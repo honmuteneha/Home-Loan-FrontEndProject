@@ -11,8 +11,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-      <Header></Header> 
-       
+       <Header></Header> 
       <Routes>
       <Route path='add' element={<Enquiry/>}></Route>
       <Route path='view' element={<ViewData/>}></Route>
