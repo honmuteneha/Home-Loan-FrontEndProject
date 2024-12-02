@@ -1,0 +1,24 @@
+{
+  "enquiry": [
+    {
+      "applicant_Id": "1",
+      "first_Name": "Neha",
+      "last_Name": "Honmute",
+      "age": 27,
+      "email": "honmuteneha@gmail,com",
+      "mobileNo": 9625478236,
+      "alternateMobileNo": 9987412036,
+      "pancardNo": "ABPH2145PI",
+      "adharNo": 25478965323,
+      "address": "Karve nagar",
+      "city": "Pune",
+      "cibilScore": {
+        "cibilId": "",
+        "cibilScore": "",
+        "status": "",
+        "cibilScoreDateandTime":"",
+        "remark":""
+      }
+    }
+  ]
+}
