@@ -10,9 +10,9 @@ import Footer from './template/Footer';
 function App() {
   return (
     <div className="App">
+      
       <BrowserRouter>
-      <Header></Header> 
-       
+       <Header></Header> 
       <Routes>
       <Route path='add' element={<Enquiry/>}></Route>
       <Route path='view' element={<ViewData/>}></Route>
@@ -23,8 +23,13 @@ function App() {
       </BrowserRouter>
       <h1>Home-Loan Frond end project ....!</h1>
        
+
+    </div> 
+  );}
+
     </div>  
   );
 }
+
 
 export default App;
