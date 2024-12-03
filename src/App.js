@@ -18,6 +18,8 @@ function App() {
       <Route path='view' element={<ViewData/>}></Route>
       <Route path='edit/:applicant_Id' element={<Enquiry/>}></Route>
       </Routes>
+
+      <h1>HOME LOAN (Priyanka)</h1>
       <Slider></Slider>
       <Footer></Footer>
       </BrowserRouter>
