@@ -21,9 +21,9 @@ function App() {
       <Slider></Slider>
       <Footer></Footer>
       </BrowserRouter>
-      </div>
-     
-    
+      <h1>Home-Loan Frond end project ....!</h1>
+       
+    </div> 
   );}
 
 export default App;
